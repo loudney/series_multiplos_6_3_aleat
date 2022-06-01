@@ -1,0 +1,33 @@
+body
+{
+    background: linear-gradient(135deg, rgba(34,193,195,1) 23%, rgba(253, 246, 45, 0.582),rgba(194, 45, 253, 0.596) 100%);
+   
+}
+
+
+h1{
+  color: blueviolet;
+  font-style: oblique;
+}
+
+#resultado2{
+    
+    color:rgb(4, 102, 102);
+}
+
+#resultado3{
+    color: rgb(196, 11, 48);
+}
+table{
+    align-content: center;
+}
+
+.tabla1{
+    margin: 0 auto ;
+}
+
+
+
+
+
+
